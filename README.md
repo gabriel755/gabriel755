@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel755&show_icons=true&locale=en&layout=compact" alt="gabriel755" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel755&show_icons=true&locale=en" alt="gabriel755" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel755&show_icons=true&locale=en" alt="gabriel755" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel755&" alt="gabriel755" /></p>
